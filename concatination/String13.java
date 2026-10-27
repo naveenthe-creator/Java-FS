@@ -1,0 +1,11 @@
+//Concatination with Characters
+public class String13 {
+    public static void main(String[] args) {
+        char a = 'J';
+        char b = 'A';
+        char c = 'V';
+        char d = 'A';
+
+        System.out.println("" + a + b + c + d);
+    }
+}
